@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfecrypt",
+        "uuid": 2695112,
+        "checksum": "d8f4da"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
